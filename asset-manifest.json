@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.8bc0a58a.js",
-    "index.html": "/index.html",
-    "main.8bc0a58a.js.map": "/static/js/main.8bc0a58a.js.map"
+    "main.js": "/feb-dain/react-cointracker.git/static/js/main.8bc0a58a.js",
+    "index.html": "/feb-dain/react-cointracker.git/index.html",
+    "main.8bc0a58a.js.map": "/feb-dain/react-cointracker.git/static/js/main.8bc0a58a.js.map"
   },
   "entrypoints": [
     "static/js/main.8bc0a58a.js"
